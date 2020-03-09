@@ -1,0 +1,2 @@
+I have used Chain of Responsibility design pattern to define and process business rules. New rules can be added in future.
+I have defined 5 different orders in code to process different rules and it is a console application.

@@ -1,0 +1,7 @@
+K:\HeenaA\Dev\OrderProcessing\obj\Debug\OrderProcessing.csprojAssemblyReference.cache
+K:\HeenaA\Dev\OrderProcessing\obj\Debug\OrderProcessing.csproj.CoreCompileInputs.cache
+K:\HeenaA\Dev\OrderProcessing\bin\Debug\OrderProcessing.exe.config
+K:\HeenaA\Dev\OrderProcessing\bin\Debug\OrderProcessing.exe
+K:\HeenaA\Dev\OrderProcessing\bin\Debug\OrderProcessing.pdb
+K:\HeenaA\Dev\OrderProcessing\obj\Debug\OrderProcessing.exe
+K:\HeenaA\Dev\OrderProcessing\obj\Debug\OrderProcessing.pdb
